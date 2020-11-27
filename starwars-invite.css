@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'star-jedi';
-  src: url("/star_jedi/starjout/Starjout.ttf");
+  src: url("Starjout.ttf");
 }
 
 @font-face {
   font-family: 'swcrawlbody';
-  src: url("/swcrawlbody/SWCrawlBody.ttf");
+  src: url("SWCrawlBody.ttf");
 }
 
 body {
