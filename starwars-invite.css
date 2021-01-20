@@ -63,6 +63,7 @@ p {
 .crawl {
   position: relative;
   top: 99px;
+	bottom: 0;
   transform-origin: 50% 100%;
   animation: crawl 60s linear;
 }
@@ -73,7 +74,7 @@ p {
 }
 
 .crawl > .title h1 {
-  margin: 0 0 100px;
+  margin: 100px 0 100px 100px;
   text-transform: uppercase;
 }
 
