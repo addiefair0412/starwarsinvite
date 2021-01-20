@@ -73,7 +73,7 @@ p {
 }
 
 .crawl > .title h1 {
-  margin: 0 0 100px;
+  margin: 100px 100px 0 100px;
   text-transform: uppercase;
 }
 
